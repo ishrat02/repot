@@ -1,5 +1,6 @@
 interface EBook{
     void display();
+    //edit from feature
 }
 class RealEBook implements EBook{
     String filename;
